@@ -23,5 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeli63&show_icons=true&locale=en&layout=compact" alt="joeli63" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joeli63&show_icons=true&locale=en" alt="joeli63" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joeli63&show_icons=true&theme=onedark&locale=en" alt="joeli63" /></p>
 
